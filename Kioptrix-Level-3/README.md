@@ -65,7 +65,7 @@ LotusCMS Vulnerability → Remote Code Execution → Reverse Shell → Post-Expl
 ## Documentation
 
 The complete walkthrough includes the methodology, commands, explanations, screenshots, findings, and lessons learned.
-[Walkthrough PDF](https://github.com/rohit-kumar098/Walkthroughs/blob/main/Kioptrix-Level-3/Kioptrix%20Level%203.pdf)
+[Walkthrough PDF](./Kioptrix Level 3.pdf)
 
 **Medium Article:** [https://medium.com/@rohityadv2006/kioptrix-level-3-walkthrough-sql-injection-lotuscms-rce-linux-privilege-escalation-3544b545299f]
 
